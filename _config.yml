@@ -39,8 +39,8 @@ livere_uid: MTAyMC8yODEwMC80Njcz
 reward:
   enable: true
   reward_comment: '真诚赞赏 手有余香'
-  #wechatpay: 'http://ray-eldath.image.alimmdn.com/basic/wechatpay.jpg'
-  #alipay: 'http://ray-eldath.image.alimmdn.com/basic/alipay.jpg'
+  wechatpay: 'http://p40uspzz2.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1.JPG'
+  alipay: 'http://p40uspzz2.bkt.clouddn.com/%E6%94%AF%E4%BB%98%E5%AE%9D.JPG'
 
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
